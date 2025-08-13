@@ -3,6 +3,7 @@ import './App.css'
 import LessonEight from './pages/LessonEight'
 import LessonFive from './pages/LessonFive'
 import LessonFour from './pages/LessonFour'
+import LessonNine from './pages/LessonNine'
 
 import LessonOne from './pages/lessonOne'
 import LessonSeven from './pages/LessonSeven'
@@ -21,7 +22,8 @@ function App() {
       {/* <LessonFive></LessonFive> */}
       {/* <LessonSix></LessonSix> */}
       {/* <LessonSeven></LessonSeven> */}
-      <LessonEight></LessonEight>
+      {/* <LessonEight></LessonEight> */}
+      <LessonNine></LessonNine>
     </>
   )
 }
