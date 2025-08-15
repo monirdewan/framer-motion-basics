@@ -1,6 +1,7 @@
 
 import './App.css'
 import LessonEight from './pages/LessonEight'
+import LessonEleven from './pages/LessonEleven'
 import LessonFive from './pages/LessonFive'
 import LessonFour from './pages/LessonFour'
 import LessonNine from './pages/LessonNine'
@@ -10,6 +11,7 @@ import LessonSeven from './pages/LessonSeven'
 import LessonSix from './pages/lessonSix'
 import LessonTen from './pages/LessonTen'
 import LessonThree from './pages/LessonThree'
+import LessonTwelve from './pages/LessonTwelve'
 import LessonTwo from './pages/LessonTwo'
 
 function App() {
@@ -25,7 +27,9 @@ function App() {
       {/* <LessonSeven></LessonSeven> */}
       {/* <LessonEight></LessonEight> */}
       {/* <LessonNine></LessonNine> */}
-      <LessonTen></LessonTen>
+      {/* <LessonTen></LessonTen> */}
+      {/* <LessonEleven></LessonEleven> */}
+      <LessonTwelve></LessonTwelve>
     </>
   )
 }
